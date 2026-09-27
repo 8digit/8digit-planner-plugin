@@ -1,0 +1,20 @@
+{
+  "name": "8digit",
+  "interface": {
+    "displayName": "8digit Creative"
+  },
+  "plugins": [
+    {
+      "name": "8digit-planner",
+      "source": {
+        "source": "local",
+        "path": "./plugins/8digit-planner"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

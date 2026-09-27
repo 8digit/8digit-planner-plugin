@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "8digit-planner": {
+      "type": "http",
+      "url": "https://planner.8digitcreative.com/mcp"
+    }
+  }
+}

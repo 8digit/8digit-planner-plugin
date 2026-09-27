@@ -1,0 +1,39 @@
+{
+  "name": "8digit-planner",
+  "version": "3.0.0",
+  "description": "Plan and review social content in your 8digit Planner workspaces and brands. Upload finished files, organize Library and prepare posts for manual publishing.",
+  "author": {
+    "name": "8digit Creative LLC",
+    "url": "https://planner.8digitcreative.com"
+  },
+  "homepage": "https://planner.8digitcreative.com/connect-ai",
+  "repository": "https://github.com/8digit/8digit-planner-plugin",
+  "license": "MIT",
+  "keywords": [
+    "content planning",
+    "social media",
+    "calendar",
+    "approvals",
+    "mcp"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "8digit Planner",
+    "shortDescription": "Plan and review social content in Planner.",
+    "longDescription": "Plan and review social content in your 8digit Planner workspaces and brands. Upload finished files, organize Library and prepare posts for manual publishing.",
+    "developerName": "8digit Creative LLC",
+    "category": "Productivity",
+    "capabilities": [
+      "Write"
+    ],
+    "websiteURL": "https://planner.8digitcreative.com",
+    "privacyPolicyURL": "https://planner.8digitcreative.com/privacy",
+    "termsOfServiceURL": "https://planner.8digitcreative.com/terms",
+    "defaultPrompt": [
+      "List my Planner workspaces, brands and permissions without changing content.",
+      "Upload this finished image to Library.",
+      "Create a draft carousel using these images in order."
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "8digit-planner",
+  "version": "3.0.0",
+  "description": "Plan and review social content in your 8digit Planner workspaces and brands. Upload finished files, organize Library and prepare posts for manual publishing.",
+  "author": {
+    "name": "8digit Creative LLC",
+    "url": "https://planner.8digitcreative.com"
+  },
+  "homepage": "https://planner.8digitcreative.com/connect-ai",
+  "repository": "https://github.com/8digit/8digit-planner-plugin",
+  "license": "MIT",
+  "keywords": [
+    "content planning",
+    "social media",
+    "calendar",
+    "approvals",
+    "mcp"
+  ]
+}
