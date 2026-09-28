@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "8digit-planner",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "Plan and review social content in your 8digit Planner workspaces and brands. Upload finished files, organize Library and prepare posts for manual publishing.",
   "author": {
     "name": "8digit Creative LLC",

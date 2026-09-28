@@ -6,14 +6,14 @@
   },
   "metadata": {
     "description": "Official plugins from 8digit Creative LLC.",
-    "version": "3.0.0"
+    "version": "3.0.1"
   },
   "plugins": [
     {
       "name": "8digit-planner",
       "source": "./plugins/8digit-planner",
       "description": "Plan and review social content in your 8digit Planner workspaces and brands. Upload finished files, organize Library and prepare posts for manual publishing.",
-      "version": "3.0.0",
+      "version": "3.0.1",
       "author": {
         "name": "8digit Creative LLC",
         "url": "https://planner.8digitcreative.com"

@@ -1,6 +1,6 @@
 {
   "name": "8digit-planner",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "Plan and review social content in your 8digit Planner workspaces and brands. Upload finished files, organize Library and prepare posts for manual publishing.",
   "author": {
     "name": "8digit Creative LLC",
@@ -17,5 +17,7 @@
     "mcp"
   ],
   "skills": "./skills/",
-  "mcpServers": "./.mcp.json"
+  "mcpServers": "./.mcp.json",
+  "icon": "./assets/icon.png",
+  "privacyPolicyUrl": "https://planner.8digitcreative.com/privacy"
 }
