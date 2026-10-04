@@ -22,7 +22,7 @@ The full guide, including a setup prompt you can paste into any of these apps, i
 
 ## Permissions
 
-You choose workspaces and brands during sign-in. Withdrawing approvals, deleting posts (Library files are kept) and marking posts as published are optional actions that stay off until you allow them. Manage or revoke a connection anytime in Planner → Account → Apps & connections.
+You choose workspaces and brands during sign-in. Withdrawing approvals, deleting posts (Library files are kept) and marking posts as published are optional actions that stay off until you allow them. Manage or revoke a connection anytime in Planner: open AI assistants from your account menu.
 
 ## Support
 
