@@ -1,6 +1,6 @@
 # 8digit Planner
 
-Plan and review social media content in [8digit Creative Content Planner](https://planner.8digitcreative.com) from Claude, Claude Code, ChatGPT or Codex. Your assistant can read your content calendar, upload finished images and videos, prepare posts, carousels and Library folders, and handle approvals you explicitly ask for. Publishing to social networks stays manual.
+Plugin for [8digit Planner](https://planner.8digitcreative.com) in Claude, Claude Code, ChatGPT or Codex. 8digit Planner is a content calendar for creators, personal brands, studios and agencies who need a client or a teammate to approve posts before they go out. Upload finished photos and videos, plan posts, carousels, Stories and Reels, and get them reviewed with timestamped comments. Guest reviewers are free. From your AI assistant, say “plan my first post”: it lists your brands, uploads the files you choose, drafts and schedules posts and asks for approval when you want it. Start with a free 3-day trial, no card needed. Cancel anytime. Built for people who manage content for a brand, their own personal brand or their clients.
 
 ## What this plugin contains
 

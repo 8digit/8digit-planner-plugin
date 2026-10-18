@@ -1,7 +1,7 @@
 {
   "name": "8digit-planner",
-  "version": "3.0.2",
-  "description": "Plan and review social content in your 8digit Planner workspaces and brands. Upload finished files, organize Library and prepare posts for manual publishing.",
+  "version": "3.0.3",
+  "description": "8digit Planner is a content calendar for creators, personal brands, studios and agencies who need a client or a teammate to approve posts before they go out. Upload finished photos and videos, plan posts, carousels, Stories and Reels, and get them reviewed with timestamped comments. Guest reviewers are free. From your AI assistant, say “plan my first post”: it lists your brands, uploads the files you choose, drafts and schedules posts and asks for approval when you want it. Start with a free 3-day trial, no card needed. Cancel anytime. Built for people who manage content for a brand, their own personal brand or their clients.",
   "author": {
     "name": "8digit Creative LLC",
     "url": "https://planner.8digitcreative.com"
@@ -14,14 +14,15 @@
     "social media",
     "calendar",
     "approvals",
+    "free trial",
     "mcp"
   ],
   "skills": "./skills/",
   "mcpServers": "./.mcp.json",
   "interface": {
     "displayName": "8digit Planner",
-    "shortDescription": "Plan and review social content in Planner.",
-    "longDescription": "Plan and review social content in your 8digit Planner workspaces and brands. Upload finished files, organize Library and prepare posts for manual publishing.",
+    "shortDescription": "Plan posts and get client approval from your AI assistant. Free 3-day trial.",
+    "longDescription": "8digit Planner is a content calendar for creators, personal brands, studios and agencies who need a client or a teammate to approve posts before they go out. Upload finished photos and videos, plan posts, carousels, Stories and Reels, and get them reviewed with timestamped comments. Guest reviewers are free. From your AI assistant, say “plan my first post”: it lists your brands, uploads the files you choose, drafts and schedules posts and asks for approval when you want it. Start with a free 3-day trial, no card needed. Cancel anytime. Built for people who manage content for a brand, their own personal brand or their clients.",
     "developerName": "8digit Creative LLC",
     "category": "Productivity",
     "capabilities": [
